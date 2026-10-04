@@ -5,7 +5,7 @@ materials that accompany the
 [Pattern Classification common core](https://github.com/tulip-lab/pattern-classification).
 
 The repository is organised around stable `M01–M11` curriculum identities.
-Seven executable practical candidates now cover M02–M06, M08, and M09. They
+Eight executable practical candidates now cover M02–M09. They
 use the repository's recorded code and teaching-content licences; publication
 still requires an explicit commit and publication instruction. Legacy
 practicals are provenance references rather than canonical copies.
@@ -30,7 +30,7 @@ practicals are provenance references rather than canonical copies.
 | M04 | [Parameter Estimation](M04-Parameter-Estimation/README.md) | M04A executable candidate |
 | M05 | [Parametric Models](M05-Parametric-Models/README.md) | M05A executable candidate |
 | M06 | [Nonparametric Methods](M06-Nonparametric-Methods/README.md) | M06A executable candidate |
-| M07 | [Stochastic Methods](M07-Stochastic-Methods/README.md) | Legacy candidates identified |
+| M07 | [Stochastic Methods](M07-Stochastic-Methods/README.md) | M07A executable candidate |
 | M08 | [Discriminant Functions](M08-Discriminant-Functions/README.md) | M08A executable candidate |
 | M09 | [Model Evaluation](M09-Model-Evaluation/README.md) | M09A executable candidate |
 | M10 | [Deep Learning](M10-Deep-Learning/README.md) | Alignment gap recorded |

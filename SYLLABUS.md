@@ -19,7 +19,7 @@ The detailed topic-to-session relationship and known gaps are maintained in the
 
 ## Current status
 
-Seven executable, student-facing practical candidates are present. They follow
+Eight executable, student-facing practical candidates are present. They follow
 the stable module and session identities below. Code and original narrative
 licences are recorded; publication remains subject to explicit approval.
 
@@ -30,11 +30,14 @@ licences are recorded; publication remains subject to explicit approval.
 | M04A | M04 Parameter Estimation | [MLE, MAP, and EM](M04-Parameter-Estimation/M04A-Parameter-Estimation-MLE-MAP-EM.ipynb) | CLO2, CLO3 | Executable candidate |
 | M05A | M05 Parametric Models | [HMM and Naive Bayes](M05-Parametric-Models/M05A-Probabilistic-Models-HMM-and-Naive-Bayes.ipynb) | CLO1, CLO2, CLO3 | Executable candidate |
 | M06A | M06 Nonparametric Methods | [Parzen and KNN](M06-Nonparametric-Methods/M06A-Nonparametric-Classification-Parzen-and-KNN.ipynb) | CLO2, CLO3 | Executable candidate |
+| M07A | M07 Stochastic Methods | [From simulation to decision](M07-Stochastic-Methods/M07A-Stochastic-Methods-from-Simulation-to-Decision.ipynb) | CLO2, CLO3 | Executable candidate |
 | M08A | M08 Discriminant Functions | [Optimisation and SVM](M08-Discriminant-Functions/M08A-Discriminant-Functions-Optimisation-and-SVM.ipynb) | CLO3 | Executable candidate |
 | M09A | M09 Model Evaluation | [Model selection and generalisation](M09-Model-Evaluation/M09A-Model-Selection-and-Generalisation.ipynb) | CLO4 | Executable candidate |
 
 M01 orientation is defined in navigation. Complete practicals remain to be
-authored for M07 Stochastic Methods, M10 Deep Learning, and M11 Privacy. M05
+authored for M10 Deep Learning and M11 Privacy. M07A now supplies the continuous
+simulation-to-decision practical; Monte Carlo tree search remains an optional
+conceptual extension in the lecture material. M05
 also requires a later Bayesian-network practical, while M03 and M09 need deeper
 cost-sensitive decision and PAC-learning activities respectively.
 

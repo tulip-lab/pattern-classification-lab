@@ -1,7 +1,7 @@
 # Licensing and provenance
 
-Seven newly authored practical candidates are present under M02–M06, M08, and
-M09. Their code and narrative licensing is now recorded as follows:
+Eight newly authored practical candidates are present under M02–M09. Their
+code and narrative licensing is now recorded as follows:
 
 - source code and notebook code cells: [Mozilla Public License 2.0](LICENSE);
 - original narrative teaching content: [CC BY-NC-SA 4.0](CONTENT-LICENSE.md);
@@ -23,6 +23,7 @@ cells, outputs, datasets, or dependency files verbatim.
 | M04A | Newly authored reconstruction | `F1A-00`, `F1A-02` | Synthetic NumPy samples |
 | M05A | Newly authored reconstruction | `F1A-03` | scikit-learn Iris and an in-notebook synthetic HMM sequence |
 | M06A | Newly authored reconstruction | `F1A-04`, `F1A-05` | Synthetic (`make_moons`) |
+| M07A | Newly authored reconstruction | `F1A-13`–`F1A-15` | Deterministic synthetic NumPy greenhouse data |
 | M08A | Newly authored reconstruction | `F1A-06`–`F1A-09` | Synthetic (`make_classification`, `make_circles`) |
 | M09A | Newly authored reconstruction | `F1B-00`–`F1B-02` | scikit-learn Breast Cancer Wisconsin dataset |
 
