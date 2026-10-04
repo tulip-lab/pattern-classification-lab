@@ -7,5 +7,5 @@ practical has yet been approved for this module.
 Learners should be able to locate the common core and Lab, start the supplied
 environment, restart and run a notebook from the top, distinguish public from
 restricted data, and identify the artefacts that demonstrate their work. The
-current seven executable candidates use synthetic data or datasets bundled
+current eight executable candidates use synthetic data or datasets bundled
 with scikit-learn and require no credentials.
