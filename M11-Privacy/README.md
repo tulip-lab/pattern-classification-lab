@@ -1,15 +1,12 @@
 # M11 — Privacy
 
-Legacy migration candidates currently hosted in the public SIT742 repository:
+This module uses the established differential privacy exercises in the public SIT742 Lab without creating duplicate notebook copies here.
 
-- [IBM Differential Privacy in 30 Seconds](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb)
-- [IBM Differential Privacy for Exploration](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb)
+## Practical path
 
-These links are references pending dependency and rights review; no canonical
-Lab notebook has yet been published here.
+1. [M06A — IBM Differential Privacy in 30 Seconds](https://github.com/tulip-lab/SIT742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb): train and compare ordinary and differentially private Gaussian Naive Bayes classifiers on Iris data.
+2. [M06B — IBM Differential Privacy for Exploration](https://github.com/tulip-lab/SIT742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb): create private statistics and histograms while tracking cumulative privacy-budget use.
 
-A future M11A practical should start from an explicit threat model, use only
-approved public or synthetic data, record privacy parameters and sensitivity,
-compare privacy with utility, and explain what the selected mechanism does not
-protect. It must not imply that removing direct identifiers alone anonymises a
-dataset.
+## Pattern Classification focus
+
+State the adjacency or threat model, public bounds, sensitivity assumptions, privacy parameters, and accounting method. Compare privacy with predictive or analytical utility, record the evidence, and explain what the mechanism does not protect. Removing direct identifiers alone must not be described as anonymisation.
