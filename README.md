@@ -24,13 +24,13 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy), Australia**
 
 ## Start here
 
-- Follow the [practical syllabus](SYLLABUS.md) and the module table below for lab-session materials.
+- Use the [module table below](#modules) as the canonical student navigation for lab-session materials.
 - Read the [data policy](Data/README.md) and [licensing guidance](LICENSING.md) before adding data or third-party material.
 - Use the [issue tracker](https://github.com/tulip-lab/pattern-classification-lab/issues) and [contribution guide](CONTRIBUTING.md) for corrections and lab improvements.
 
 ## Unit materials
 
-The [practical syllabus](SYLLABUS.md) describes the learning sequence, and the [pairing map](PRACTICAL-MAP.md) records how each practical connects to the common core. Instructor-only solutions, hidden data, private evaluators, moderation records, and teaching notes are maintained separately.
+The module table is the single student-facing index of practical materials. For curriculum design and contribution work, the [curriculum alignment and coverage map](PRACTICAL-MAP.md) records how each practical connects to the common core, what evidence learners retain, and which gaps remain. Instructor-only solutions, hidden data, private evaluators, moderation records, and teaching notes are maintained separately.
 
 ### How to work through the labs
 

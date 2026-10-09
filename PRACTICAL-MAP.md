@@ -1,6 +1,13 @@
-# Common-core and practical map
+# Curriculum alignment and coverage map
 
-This map pairs the public common-core narrative with stable Lab session IDs. It distinguishes material maintained in this repository from selected exercises linked from other public TULIP Lab courses. Linked exercises retain their original source identity and are not duplicated here.
+This maintainer-facing map pairs the public common-core narrative with stable
+Lab session IDs. It records the evidence expected from each practical and makes
+coverage gaps visible. Students should use the [Lab README module table](README.md#modules)
+as their primary navigation.
+
+The map distinguishes material maintained in this repository from selected
+exercises linked from other public TULIP Lab courses. Linked exercises retain
+their original source identity and are not duplicated here.
 
 | Module | Common-core emphasis | Lab session or status | Evidence learners retain | Coverage note |
 | --- | --- | --- | --- | --- |
