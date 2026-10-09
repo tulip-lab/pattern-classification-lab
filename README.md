@@ -8,11 +8,13 @@
 
 **FLIP** stands for **Fundamentals of Learning and Intelligent Processing**.
 
-This repository is the public companion site for practical sessions, issues, and pull requests associated with the [Pattern Classification common core](https://github.com/tulip-lab/pattern-classification). The practical sequence develops inspectable workflows for Bayesian decisions, estimation, probabilistic and nonparametric models, stochastic methods, discriminants, model evaluation, large language models, agentic AI, and privacy.
+This is the practical site for [FLIP: Pattern Classification](https://github.com/tulip-lab/pattern-classification). It provides runnable notebooks, public data, implementation exercises, and practical guidance. Use the linked course portal for module concepts, lecture materials, recommended textbooks, offering information, and other authoritative course links.
+
+The practical sequence develops inspectable workflows for Bayesian decisions, estimation, probabilistic and nonparametric models, stochastic methods, discriminants, model evaluation, large language models, agentic AI, and privacy.
 
 ---
 
-- Follow the stable `M01–M11` module identities used by the common core.
+- Follow the stable `M01–M11` module sequence used across the course.
 - Use public course documents, approved open data, or small synthetic examples.
 - Report issues through this repository's [issue tracker](https://github.com/tulip-lab/pattern-classification-lab/issues).
 - Pull requests that improve clarity, reproducibility, accessibility, or safety are welcome.
