@@ -7,7 +7,7 @@ This directory contains reusable student-facing briefs and the minimum starter m
 | Project | Start here | Core student files |
 | --- | --- | --- |
 | Frontier AI through Pattern Classification | [Overview](frontier-ai-presentation/README.md) | Specification and topic catalogue |
-| Tourism demand forecasting | [Overview](tourism-demand-forecasting/README.md) | Specification, starter notebook, CSV templates, and format validator |
+| Tourism demand forecasting | [Overview](tourism-demand-forecasting/README.md) | Specification, starter notebook, paired CSV examples, evidence templates, checklist, and format validator |
 
 ## How to use these materials
 

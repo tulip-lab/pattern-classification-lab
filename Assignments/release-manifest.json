@@ -30,23 +30,23 @@
       ]
     },
     {
-      "version": "tourism-demand-forecasting-v2",
+      "version": "tourism-demand-forecasting-v3",
       "path": "tourism-demand-forecasting",
       "files": [
         {
           "path": "README.md",
           "canonical_private_source": "assessment/2026/PC-2026-DESIGN/public-briefs/tourism-demand-forecasting/README.md",
-          "sha256": "0013eac3f8433f5198fb85002d2ab5d83acd238eaaac686cbcc35dae40c719e8"
+          "sha256": "7170c2142841ebc2bb8eac5144203af976a8d12293afbfe804a812e0a2659a3e"
         },
         {
           "path": "specification.md",
           "canonical_private_source": "assessment/2026/PC-2026-DESIGN/public-briefs/tourism-demand-forecasting/specification.md",
-          "sha256": "7472ac3105f2195ed5e0d412fd1a6534b53cc62429b023f085a3789184ad0114"
+          "sha256": "c16297075aca5e2a38bbca323f0eb1c19ec13367ce27e5e3da7526cf19dfdf1a"
         },
         {
           "path": "Tourism-Forecasting-Starter.ipynb",
           "canonical_private_source": "assessment/2026/PC-2026-DESIGN/release-candidate/PC26-A2-Starter.ipynb",
-          "sha256": "6d4bb3c7321812cde6c0858dea7d2ed272544e71c9336f43aeed78e9a43ab2d3"
+          "sha256": "6a5b468478392cb2a13def14235be9571d405e0fb11d31264c2af8c72478b298"
         },
         {
           "path": "validate_submission.py",
@@ -56,7 +56,7 @@
         {
           "path": "requirements.txt",
           "canonical_private_source": "assessment/2026/PC-2026-DESIGN/release-candidate/requirements-public-labs.txt",
-          "sha256": "b5d413903d99fa2671d9041961a45cb4bece9c862313232649e85624d70a25a0"
+          "sha256": "24fb35378fa3f74111d376175b163aea28be33e1b38e7514230fedb30e3f949f"
         },
         {
           "path": "templates/Forecast.csv",
@@ -69,9 +69,39 @@
           "sha256": "7e38d9a6533b6554f2f76305defdbfedf761d5110171064b390b097bb31888ed"
         },
         {
+          "path": "examples/Forecast.example.csv",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/release-candidate/examples/Forecast.example.csv",
+          "sha256": "51e3f0930c60043d25312f4bea512373d0555ac829c0ae65adea1dbd32c33e82"
+        },
+        {
+          "path": "examples/Intervals.example.csv",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/release-candidate/examples/Intervals.example.csv",
+          "sha256": "e902bf8b265d41d49ce269968eb2d8087ad18309da7297375bcae5eeb62b7b45"
+        },
+        {
           "path": "templates/Model-Card.md",
           "canonical_private_source": "assessment/2026/PC-2026-DESIGN/task-2-model-card-template.md",
           "sha256": "bd5295c91572d872f4f74d38f95cc12b77ada88711afc45e0bbda6bdfeca0d36"
+        },
+        {
+          "path": "templates/Forecast-Protocol.md",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/task-2-forecast-protocol-template.md",
+          "sha256": "2b510a610c240c83ee772f047de66e6292d7a9bc778869f4cabdcd23731ed7a2"
+        },
+        {
+          "path": "templates/Report-Outline.md",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/task-2-report-outline.md",
+          "sha256": "3e38d4587ebfcf6b5abce81d97021bfb2969141efcc8c062cc0b9ee6d0c9acf9"
+        },
+        {
+          "path": "templates/Contribution-Declaration.md",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/public-briefs/tourism-demand-forecasting/Contribution-Declaration.md",
+          "sha256": "b25d85f0728859bc9442305e9c357461d430bce5b9c76b1098da38e36a426c93"
+        },
+        {
+          "path": "Submission-Checklist.md",
+          "canonical_private_source": "assessment/2026/PC-2026-DESIGN/public-briefs/tourism-demand-forecasting/Submission-Checklist.md",
+          "sha256": "5b0d0df8ba19f141760fbdff496a2a8eea0fc430dbc00e90d1a30f37bded8380"
         }
       ]
     }
